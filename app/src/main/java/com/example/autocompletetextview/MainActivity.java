@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
     private List<Province> provinceList;
     private List<District> districtList;
     private String currentProvinceId="";
-    private String currentProvinceName = "";
     private AutoCompleteTextView autoCompleteTextView,autoCompleteTextView2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
